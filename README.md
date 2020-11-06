@@ -18,4 +18,4 @@ This is a test
 
 <p>This is another<br>test.</p>
 
-<p>Microsoft Classic Samples [Samples](https://github.com/microsoft/Windows-classic-samples "Classic").</p>
+Microsoft Classic Samples [Samples](https://github.com/microsoft/Windows-classic-samples).
