@@ -15,3 +15,5 @@ This is a test
 
 - [ ] An uncomplete task
 - [x] A complete task
+
+<p>This is another<br>test.</p>
