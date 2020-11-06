@@ -1,13 +1,13 @@
 # Hello-World
 Hello World Repository
 
-###Denial###
+### Denial ###
 
 _Emphasized text_ 
 
 *Emphasized text*
 
-###Acceptance###
+### Acceptance ###
 
 This is a test
 
