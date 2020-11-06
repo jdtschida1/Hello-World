@@ -2,9 +2,15 @@
 Hello World Repository
 
 ###Denial###
-_Emphasized text_ or *Emphasized text*
+
+_Emphasized text_ 
+
+*Emphasized text*
+
 ###Acceptance###
+
 This is a test
+
 ~~This is not a test~~
 
 - [ ] An uncomplete task
